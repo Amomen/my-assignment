@@ -49,7 +49,7 @@ img {
   text-decoration: none;
   margin: 10px 0;
   padding: 10px 40px;
-  background: #cf2d7e; 
+  background: orangered; 
   color:#000;
   border-radius: 5px;
   margin: 10px 0;
@@ -80,13 +80,13 @@ img {
   margin: 0 1%;
 }
 .mybox-a {
-  background: #23b5c9;
+  background: #b0d8dd;
 }
 .mybox-b {
-  background: #7c670a;
+  background: #959281;
 }
 .mybox-c {
-  background: #977642;
+  background: #cac6be;
 }
 .mybox img {
   width: 141px;
@@ -131,7 +131,7 @@ img {
 .develop-section a {
   color: #fff;
   padding: 10px 40px;
-  background: #d6b20fb0;
+  background: orangered;
   text-decoration: none;
   color: rgb(17, 17, 11);
   margin: 10px 0;  
@@ -182,13 +182,13 @@ img {
 
 
 #foot {
-  background: #000;
+  background: rgba(151, 101, 7, 0.514);
   padding: 40px 0;
 }
 
 .f-txt {
   text-align: center;
-  color: rgb(201, 42, 68);
+  color: rgb(233, 225, 227);
 }
 
 .f-txt h3 {
@@ -197,6 +197,6 @@ img {
   font-size: 48px;
   line-height: 0;
 }
-.footer-text h3 span {
+.f-txt h3 span {
   color: #c73131;
 }

@@ -1,0 +1,202 @@
+body {
+  font-family: "Poppins", sans-serif;
+}
+img {
+  max-width: 100%;
+}
+.hero-heading {
+  font-family: "Yeseva One", cursive;
+}
+
+.sec1{
+  background: wheat;
+}
+.cont {
+  padding: 25px 1%;
+  max-width: 1400px;
+  margin: auto;
+}
+.row {
+  display: flex;
+}
+.program {
+  width: 70%;
+}
+.rightimage {
+  width: 30%;
+}
+.my-name {
+  border-left: 4px solid #8f1053;
+}
+.my-name h1 {
+  font-family: "Yeseva One", cursive;
+  font-size: 52px;
+  font-weight: 500;
+  padding-left: 15px;
+  line-height: 70px;
+}
+.hero-left h1 span {
+  color: #ffad5a;
+}
+.hero-left p {
+  font-size: 18px;
+  line-height: 32px;
+  color: #333333;
+  width: 471px;
+  padding: 20px 0;
+}
+.program a {
+  text-decoration: none;
+  margin: 10px 0;
+  padding: 10px 40px;
+  background: #cf2d7e; 
+  color:#000;
+  border-radius: 5px;
+  margin: 10px 0;
+}
+#sec2 {
+  background: #fdfdfd;
+  padding-bottom: 120px ;
+}
+
+.heading h1 { 
+  line-height: 70px;
+   text-align: center;
+  font-size: 50px;
+  line-height: 70px;
+  line-height: 70px;
+  padding: 10px 0;  
+}
+.heading h1 span {
+  color:red;
+}
+.HTML {
+  display: flex;
+}
+.mybox {
+  width: 30%;
+  padding: 30px;
+  border-radius: 10%;
+  margin: 0 1%;
+}
+.mybox-a {
+  background: #23b5c9;
+}
+.mybox-b {
+  background: #7c670a;
+}
+.mybox-c {
+  background: #977642;
+}
+.mybox img {
+  width: 141px;
+  height: 141px;
+}
+
+.mission-1-text h4 {
+  font-size: 24px;
+  color: #000;
+}
+.mission-1-text p {
+  font-size: 16px;
+  color:white;
+}
+
+#sec3 {
+  padding: 69px 0 69px 0;
+  background: url(images/shapes/shape-1.png);
+  background-repeat: no-repeat;
+  background-position: left center;
+}
+.div3 {
+  display: flex;
+}
+
+.develop-section {
+  padding-left: 6%;
+}
+.develop-section h1 {
+  font-size: 35px;
+  font-weight: 600;
+}
+
+.develop-section h1 span {
+  color: #ff5959;
+}
+.develop-section p {
+  font-size: 18px;
+  line-height: 28px;
+  padding: 10px 0;
+}
+.develop-section a {
+  color: #fff;
+  padding: 10px 40px;
+  background: #d6b20fb0;
+  text-decoration: none;
+  color: rgb(17, 17, 11);
+  margin: 10px 0;  
+  border-radius: 10px;
+}
+.left-image img {
+  max-width: 400px;
+}
+
+.develop-section.global {
+  padding-left: 0;
+  padding-right:5%;
+}
+
+
+.testimonial-txt {
+}
+.testimonial-txt h1 {
+  text-align: center;
+  font-size: 38px;
+  font-weight: 700;
+  padding: 20px 0;
+  text-transform: uppercase;
+}
+
+.testimonial-txt h1 span {
+  font-weight: bold;
+  color: #963f0c;
+}
+.testimonials-items {
+  display: flex;
+}
+.testimonials-item {
+  width: 31%;
+  text-align: center;
+}
+
+.testimonials-item img {
+  border-radius: 50%;
+  height: 236px;
+  overflow: hidden;
+}
+.testimonials-item h3 {
+  font-size: 28px;
+  padding: 0;
+  line-height: 0;
+}
+
+
+#foot {
+  background: #000;
+  padding: 40px 0;
+}
+
+.f-txt {
+  text-align: center;
+  color: rgb(201, 42, 68);
+}
+
+.f-txt h3 {
+  font-style: italic;
+  font-family: 'Lobster Two', cursive;
+  font-size: 48px;
+  line-height: 0;
+}
+.footer-text h3 span {
+  color: #c73131;
+}
